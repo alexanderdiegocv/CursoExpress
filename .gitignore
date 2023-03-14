@@ -1,0 +1,12 @@
+# Archivos y directorios generados automáticamente
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de configuración local
+.env
+
+# Archivos compilados
+dist/
+*.log
